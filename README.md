@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About-Me
-Hi there. 
 I`m parisa.
 
 - 🔭 I’m currently working in xeba-technologies
