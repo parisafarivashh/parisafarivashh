@@ -14,3 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About-Me
+Hi there. 
+I`m parisa.
+
+- 🔭 I’m currently working in xeba-technologies
+
+### Work Experiences
+
+  <details>
+  <summary>fwutech</summary>
+  Experienced Python Developer with a demonstrated history of working in the information technology 
+  and data analysis on mobile network infrastructure 2G/3G/4G big data in Ran and transmission sides.
+
+  Using database like postgressql, clickhouse. Experience writing python scripts.  
+  Use Linux OS and Grafana for some of UI purposes
+
+  https://www.fwutech.com
+  </details>
+  
+  <details>
+  <summary>Sandbad</summary>
+  Part of Backend Sandbad SuperAPP.
+  
+  Part of Backend Quiztion Game. 
+  
+  we used python, django-restframwork, celery, redis, postgres 
+  
+
+  https://quiztion.ir
+  </details>
+  
+  <details>
+  <summary>xeba-technologies</summary>
+  We uses python, django-restframwork, websocket, RabbitMq, celery, redis, postgres
+  
+  https://www.linkedin.com/company/xeba-technologies
+  </details>
