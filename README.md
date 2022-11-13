@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I`m parisa.
 
 - 🔭 I’m currently working in xeba-technologies
+- 📫 see my post on medium: https://medium.com/@parisafarivash
 
 ### Work Experiences
 
