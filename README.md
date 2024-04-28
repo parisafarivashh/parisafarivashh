@@ -52,7 +52,19 @@ I`m parisa.
   
   <details>
   <summary>xeba-technologies</summary>
-  We uses python, django-restframwork, websocket, RabbitMq, celery, redis, postgres
+  our project is like Jira in many aspects but we have additional
+  capabilities that facilitate communication among colleagues company.
+  we have used:
+  Websocket and dispatcher for real-time data exchange.
+  Celery and RabbitMQ for task
+  We utilize AI technologies such as Langchain and OpenAI to
+  develop a smart bot that can summarize messages within a room for
+  a user. The user can then ask the bot questions about the contents
+  of the room’s messages.
+  Design patterns like Factory, Facade, and Repository
+  We can transfer data of Slack, and Jira to our app
+  Used CLI to create/drop a database
+  use postgres and redis
   
   https://www.linkedin.com/company/xeba-technologies
   </details>
